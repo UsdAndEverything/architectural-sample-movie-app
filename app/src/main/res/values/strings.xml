@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Movie Application</string>
+    <string name="text_please_wait">Please wait..</string>
+</resources>
